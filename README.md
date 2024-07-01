@@ -106,7 +106,7 @@ bar_chart.set_bars_margin(0.1)  # Set margin to 10%
 bar_chart.open()
 ```
 
-![chart](/images/barchart.png)
+![chart](images/barchart.png)
 
 ### Analysis
 The bar chart illustrates the average Global Mean Sea Level (GMSL) by year. From the data, it's evident that there has been a consistent rise in sea levels over the years. This rise is particularly noticeable in the last few decades, reflecting the accelerated impact of climate change.
