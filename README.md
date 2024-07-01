@@ -106,7 +106,7 @@ bar_chart.set_bars_margin(0.1)  # Set margin to 10%
 bar_chart.open()
 ```
 
-![chart](images/barchart.png)
+![chart](/Images/barchart.png)
 
 ### Analysis
 The bar chart illustrates the average Global Mean Sea Level (GMSL) by year. From the data, it's evident that there has been a consistent rise in sea levels over the years. This rise is particularly noticeable in the last few decades, reflecting the accelerated impact of climate change.
@@ -148,7 +148,7 @@ y_axis.set_title('GMSL (mm)')
 # Open the chart
 chart.open()
 ```
-![chart](/images/area.png)
+![chart](/Images/area.png)
 
 ### Analysis
 The area chart provides a visual representation of the GMSL over the years. The filled area under the curve highlights the increase in sea levels. The steep incline in recent years underscores the urgency of addressing climate change and its effects on global sea levels.
@@ -183,7 +183,7 @@ for i, year in enumerate(years):
     custom_tick.set_text(year)
 chart.open()
 ```
-![chart](/images/boxPlot.png)
+![chart](/Images/boxPlot.png)
 
 ### Analysis
 The box plot showcases the distribution of GMSL data by year. Each box represents the spread of data, with the median, quartiles, and potential outliers clearly marked. This visualization helps identify the variability and central tendency of sea level data across different years.
@@ -220,7 +220,7 @@ chart.add_legend().add(chart).set_title('Yearly Average Sea Level Changes')
 # Open the chart
 chart.open()
 ```
-![chart](/images/pyrmid.png)
+![chart](/Images/pyrmid.png)
 
 ### Analysis
 The pyramid chart presents the average GMSL data for the most recent five years. The chart's structure allows for an easy comparison of sea levels year by year, highlighting any recent trends or significant changes. This visualization effectively communicates the most up-to-date information on sea level rise.
@@ -254,7 +254,7 @@ funnel_chart.set_data(data)
 # Open the Funnel Chart
 funnel_chart.open()
 ```
-![chart](/images/funnel.png)
+![chart](/Images/funnel.png)
 
 ### Analysis
 A funnel plot is used to visualize the average GMSL in some specific years over the past 20 years. The funnel shape helps show sea level progress over this period, providing a clear and impressive visual representation of the data.
