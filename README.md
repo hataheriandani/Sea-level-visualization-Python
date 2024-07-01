@@ -1,4 +1,4 @@
-# Historical Sea Level Rise Analysis Changes in Python
+# Sea Level Rise Analysis Changes in Python
 
 ## Introduction
 
